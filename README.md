@@ -5,4 +5,5 @@
 Pack 1:
   - Gradient Descent
       - Vanilla
+      - Batch
 
